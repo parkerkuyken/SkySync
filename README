@@ -1,0 +1,6 @@
+Skyscanner is my first application! My goal for Skyscanner was to develope a simply yet
+fun application with a GUI that could gather weather. What kind of portfillo would this be
+without a weather app! I used customtkinter, datetime, and request to get this application up and running.
+
+Please let me know if you find any bugs worth mentioning!
+
